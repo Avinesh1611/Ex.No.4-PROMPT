@@ -6,7 +6,7 @@
 
 ## PROMPT:
 
----Prepare a scenario-based report for Experiment 4 on Prompt Engineering. The report should cover the following prompt types: Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompt, Universal Prompt Structures, and Prompt Refinements (Prompt Size Limitations).
+Prepare a scenario-based report for Experiment 4 on Prompt Engineering. The report should cover the following prompt types: Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompt, Universal Prompt Structures, and Prompt Refinements (Prompt Size Limitations).
 
 The scenario is: manufacturing automation using IoT devices and predictive maintenance to improve efficiency, minimize downtime, and optimize energy use.
 
