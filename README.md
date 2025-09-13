@@ -1,10 +1,24 @@
 # Ex.No.4  
-**Scenario-Based Report Development Using Advanced Prompting Techniques**
+## Scenario-Based Report Development Using Advanced Prompting Techniques
 
-**NAME:** AVINESH P  
-**REGISTER NUMBER:** __________  
+## NAME: AVINESH P  
+## REGISTER NUMBER: 212222060022
 
----
+## PROMPT:
+
+---Prepare a scenario-based report for Experiment 4 on Prompt Engineering. The report should cover the following prompt types: Comparative Analysis Prompt, Experiential Perspective Prompt, Everyday Functioning Prompt, Universal Prompt Structures, and Prompt Refinements (Prompt Size Limitations).
+
+The scenario is: manufacturing automation using IoT devices and predictive maintenance to improve efficiency, minimize downtime, and optimize energy use.
+
+For each prompt type:
+
+1.Provide an example prompt related to the scenario.
+
+2.Generate the sample response.
+
+3.Present results from at least two AI systems (e.g., ChatGPT, Gemini, Meta AI).
+
+4.Compare and evaluate the outputs using any one evaluation method (e.g., rubric-based evaluation).
 
 ## Aim  
 
